@@ -1,0 +1,14 @@
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\bin\Debug\netcoreapp2.1\FacesStorage.deps.json
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\bin\Debug\netcoreapp2.1\FacesStorage.runtimeconfig.json
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\bin\Debug\netcoreapp2.1\FacesStorage.runtimeconfig.dev.json
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\bin\Debug\netcoreapp2.1\FacesStorage.dll
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.csprojAssemblyReference.cache
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.csproj.CoreCompileInputs.cache
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.RazorAssemblyInfo.cache
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.RazorAssemblyInfo.cs
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.AssemblyInfoInputs.cache
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.AssemblyInfo.cs
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.RazorTargetAssemblyInfo.cache
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\bin\Debug\netcoreapp2.1\FacesStorage.pdb
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.dll
+C:\Users\360noscope420\source\repos\FacesStorage\FacesStorage\obj\Debug\netcoreapp2.1\FacesStorage.pdb
